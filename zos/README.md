@@ -88,16 +88,14 @@ Builds a file, ```.kg2at_conf```, to be sourced for environmental setup.
 
 #### Parameters
 >Required
-> * -install_directory <DIR> or -i <DIR>
+> * `-install_directory <DIR>` or `-i <DIR>`
 >
->   <DIR> is the absolute path of directory where you’d like to extract
-    and install all tars.
+>   <DIR> is the absolute path of directory where you’d like to extract and install all tars.
 >
 >Optional
-> * -tar_directory <DIR> or -t <DIR>
+> * `-tar_directory <DIR>` or `-t <DIR>` 
 >
->   <DIR> is the absolute path of directory where your tar files are
-    located.
+>   <DIR> is the absolute path of directory where your tar files are located.
 
 #### Execution
 
