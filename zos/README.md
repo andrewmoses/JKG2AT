@@ -48,7 +48,7 @@ This solution will require a fair bit of disk space.  The installation files alo
 Transfer the following tars into a single directory on z/OS (such as
 via FTP in binary mode).
 
->[python-2017-04-12-py27.tar.gz](https://download-eu.rocketsoftware.com/ro2/d/AC7048C9EA8E45EBBFE0D21FE633E7B8)
+>[python-2017-04-12-py27.tar.gz - *Link expired*](https://download-eu.rocketsoftware.com/ro2/d/AC7048C9EA8E45EBBFE0D21FE633E7B8)
 
 >[toree-0.2.0.dev1.tar.gz](https://anaconda.org/hyoon/toree/0.2.0.dev1/download/toree-0.2.0.dev1.tar.gz)
 
@@ -93,7 +93,7 @@ Builds a file, ```.kg2at_conf```, to be sourced for environmental setup.
 >   <DIR> is the absolute path of directory where you’d like to extract and install all tars.
 >
 >Optional
-> * `-tar_directory <DIR>` or `-t <DIR>` 
+> * `-tar_directory <DIR>` or `-t <DIR>`
 >
 >   <DIR> is the absolute path of directory where your tar files are located.
 
